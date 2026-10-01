@@ -1,0 +1,8 @@
+# Compiled binaries
+kernel_program
+*.exe
+*.o
+*.out
+
+# Notebook checkpoints
+.ipynb_checkpoints/
